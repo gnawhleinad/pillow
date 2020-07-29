@@ -1,7 +1,9 @@
 ## resources
 
+- [Texas Essential Knowledge and Skills for Grade 2]
 - [Texas Essential Knowledge and Skills for Grade 3]
 
+[Texas Essential Knowledge and Skills for Grade 2]: https://tea.texas.gov/sites/default/files/Grade2_TEKS_0819.pdf
 [Texas Essential Knowledge and Skills for Grade 3]: https://tea.texas.gov/sites/default/files/Grade3_TEKS_0817.pdf
 
 ### math
